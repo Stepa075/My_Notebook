@@ -1,14 +1,12 @@
 package com.stepa0751.mynotebook
 
 import android.content.Intent
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import android.util.Log
 import android.view.Gravity
 import android.view.View
 import android.widget.Toast
+import androidx.appcompat.app.AppCompatActivity
 import com.stepa0751.mynotebook.databinding.ActivityEditBinding
-import com.stepa0751.mynotebook.databinding.ActivityMainBinding
 import com.stepa0751.mynotebook.db.MyDbManager
 import com.stepa0751.mynotebook.db.MyIntentConstants
 import kotlinx.coroutines.CoroutineScope
