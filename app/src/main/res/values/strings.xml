@@ -1,4 +1,9 @@
 <resources>
     <string name="app_name">My Notebook</string>
     <string name="textEmpty">Empty</string>
+    <string name="saved">Saved!</string>
+    <string name="enter_title">Enter title</string>
+    <string name="enter_text">Enter text</string>
+    <string name="no_title_or_description">No title or description!</string>
+    <string name="updated">Updated!</string>
 </resources>
